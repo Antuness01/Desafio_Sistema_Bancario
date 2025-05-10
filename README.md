@@ -1,4 +1,4 @@
-# DIO | Desafio Sistema bancario 
+# DIO | Desafio Sistema bancario (PYTHON)
 
 Este repositorio contem o primeiro desafio da minha carreira de programador em Python.
 Neste sistema bancario contem 3 utilidade que são: Depositar, Sacar e Exibir Extrato.
